@@ -1,6 +1,6 @@
 {
     "name": "ifbiu/http",
-    "description": "HTTP\u001b[D\u001b[D\u001b[D\u001b[Da \u001b[a\u001b[C\u001ba http package",
+    "description": "A HTTP Package",
     "type": "library",
     "require": {
         "php": ">=5.3"
