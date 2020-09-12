@@ -1,0 +1,21 @@
+{
+    "name": "ifbiu/http",
+    "description": "HTTP\u001b[D\u001b[D\u001b[D\u001b[Da \u001b[a\u001b[C\u001ba http package",
+    "type": "library",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Candide",
+            "email": "biuvip@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "ifbiu\\http\\": "src/http/lib"
+        }
+    }
+}
